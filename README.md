@@ -8,7 +8,7 @@
     <img src="https://github.com/Hackoak/Hackoak/blob/main/asset/hackoak.png" width="150">
 </p>
 
-<h2 align="center">HACKOAK</h2>
+<h2 align="center" style="color:black">I'm HACKOAK</h2>
 
 ### Connect with me
 
