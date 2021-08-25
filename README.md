@@ -4,7 +4,7 @@
 <!--  ![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/header_.png) -->
 
 <p align="center">
-    <img src="Assets/Aditya.png" width="180">
+    <img src="assets/hackoak.png" width="180">
 </p>
   
   <h2 align="center">HACKOAK</h2>
