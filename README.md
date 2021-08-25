@@ -3,13 +3,15 @@
  
 <!--  ![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/header_.png) -->
 
-<p align="center">
-    <img src="assets/hackoak.png" width="180">
-</p>
-  
-  <h2 align="center">HACKOAK</h2>
 
-## Connect with me
+<p align="center">
+    <img src="https://github.com/Hackoak/Hackoak/blob/main/asset/hackoak.png" width="150">
+</p>
+
+<h2 align="center">HACKOAK</h2>
+
+### Connect with me
+
 <p align="center">
  <a href="https://github.com/Hackoak/" target="_blank" > <img alt="Hackoak" src="https://img.shields.io/badge/Hackoak-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/karan-singh-136ab0165" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +19,11 @@
   <a href="https://www.instagram.com/karan_ksrk/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   
 </p>
-## Tools & Technologies:
+
+
+### Tools & Technologies:
+
+<br>
 <p align="center">  
  
   <img alt="python" src="https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=F7C52B&labelColor=000000&logoColor=F7C52B" />
@@ -39,6 +45,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <p align="left">
   
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">  </a><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/python.png" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/c.png" alt="C" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/cpp.png" alt="C++" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/html.svg" alt="HTML" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/css.png" alt="CSS" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/sass.png" alt="SASS" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/js.png" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/postgres.png" alt="PostgreSQL" width="40" height="40"/>&nbsp;<img src="https://www.freeiconspng.com/uploads/powershell-icon-9.png" alt="Powershell" width="40" height="40"/>&nbsp;&nbsp;
@@ -55,14 +62,10 @@
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hackoak&theme=react-dark&hide_border=true&area=true" />
  
 </p>
-
----
-
-
  
- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+<!--  [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
  
  
 <td align="center" style="padding=0;width=70%;">
