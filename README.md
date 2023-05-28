@@ -48,7 +48,7 @@
 <br>
 <p align="left">
   
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank">  </a><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/python.png" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/c.png" alt="C" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/cpp.png" alt="C++" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/html.svg" alt="HTML" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/css.png" alt="CSS" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/sass.png" alt="SASS" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/js.png" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/postgres.png" alt="PostgreSQL" width="40" height="40"/>&nbsp;<img src="https://www.freeiconspng.com/uploads/powershell-icon-9.png" alt="Powershell" width="40" height="40"/>&nbsp;&nbsp;
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank">  </a><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/python.png" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/c.png" alt="C" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/cpp.png" alt="C++" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/html.svg" alt="HTML" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/css.png" alt="CSS" width="40" height="40"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/js.png" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://www.freeiconspng.com/uploads/powershell-icon-9.png" alt="Powershell" width="40" height="40"/>&nbsp;
  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
   
@@ -59,7 +59,7 @@
 <p align="center">
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hackoak&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackoak&theme=tokyonight" /> -->
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hackoak&theme=react-dark&hide_border=true&area=true" />
+<!--  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hackoak&theme=react-dark&hide_border=true&area=true" /> -->
  
 </p>
  
@@ -67,10 +67,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
  
- 
+<!--  
 <td align="center" style="padding=0;width=70%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackoak&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
-    </td>
+    </td> -->
  
  
  
