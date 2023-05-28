@@ -14,9 +14,9 @@
 
 <p align="center">
  <a href="https://github.com/Hackoak/" target="_blank" > <img alt="Hackoak" src="https://img.shields.io/badge/Hackoak-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a>
-  <a href="https://www.linkedin.com/in/karan-singh-136ab0165" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ksrk.medium.com" target="_blank" ><img alt="LinkedIn"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&label=&color=000000&labelColor=000000" /></a>
-  <a href="https://www.instagram.com/karan_ksrk/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harikrishnan-rv" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com" target="_blank" ><img alt="LinkedIn"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&label=&color=000000&labelColor=000000" /></a>
+  <a href="https://www.instagram.com" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   
 </p>
 
