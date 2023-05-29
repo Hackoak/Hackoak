@@ -48,8 +48,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
-<div>
-<p align="left">
+<div  align="center">
+<p align="center">
   
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>&nbsp;
 <a href="http://aws.amazon.com" target="_blank"> <img src="https://github.com/Hackoak/Hackoak/blob/main/asset/512px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>&nbsp;
