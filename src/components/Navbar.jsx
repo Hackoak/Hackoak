@@ -47,10 +47,16 @@ const Navbar = () => {
           />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Harkrishnan &nbsp;
-            <span className="sm:block hidden"> | Core DEV</span>
+            <span className="sm:block hidden"> | Core DEV </span>
           </p>
+          <div className="{ beta }">
+            <p
+              className={`text-secondary text-[18px] font-bold max-w-3xl leading-[15px] text-[#dfd9ff] orange-text-gradient m-2`}
+            >
+              BETA
+            </p>
+          </div>
         </Link>
-
         <ul className="list-none hidden sm:flex flex-row gap-10">
           {navLinks.map((nav) => (
             <li
